@@ -1,9 +1,3 @@
-# demo-repo
-
-I am learning to use Git and Github
-
-## Subheader
-
-Hi 
-
-Hi again
+# Statistics Project
+World's Happiness Score Dataset
+ 
