@@ -1,8 +1,8 @@
-## Statistics Project with Python
+# Statistics Project with Python
 
-## ✨ World's Happiness Score Dataset 
+# ✨ World's Happiness Score Dataset 
 
-# 💎 The Aim Of The Project 
+## 💎 The Aim Of The Project 
 The main objective was to gain a deeper understanding of how 
 statistical concepts are practically utilized in real-world contexts 
 and to learn how to analyze and interpret a dataset. We were required 
@@ -12,7 +12,7 @@ standard error, and variance. By doing so, we aimed to bridge the gap
 between theoretical knowledge of statistics and its practical 
 application in real-life situations.
 <br><hr>
-# 💎 What I Did in the Project
+## 💎 What I Did in the Project
 In the project, I chose the "World Happiness Score" dataset as the 
 dataset. It includes the happiness scores of countries from 2015 to 
 2019. My goal was to compare the happiness scores of specific countries 
